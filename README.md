@@ -107,6 +107,8 @@ nicholas@csoai.org
 - **Revenue catalog**: [csoai-x402-revenue](https://github.com/CSOAI-ORG/csoai-x402-revenue) — 11 endpoints, USDC on Base, $0.02 first-week revenue
 - **Python buyer guide**: [csoai-x402-buyer-guide](https://github.com/CSOAI-ORG/csoai-x402-buyer-guide) — copy-paste EIP-3009 + eth_account
 - **TypeScript example**: [csoai-x402-typescript-example](https://github.com/CSOAI-ORG/csoai-x402-typescript-example) — working viem + cast code
+- **NPM template**: [csoai-x402-npm-template](https://github.com/CSOAI-ORG/csoai-x402-npm-template) — ready-to-ship package
+- **Live on npm**: [csoai-x402-rail-client](https://www.npmjs.com/package/csoai-x402-rail-client) — pay CSOAI x402 from any Node.js app
 - **Revenue blog**: [csoai-blog-x402-revenue](https://github.com/CSOAI-ORG/csoai-blog-x402-revenue) — week-one honest revenue report
 - **Free discovery**: https://councilof.ai/api/free-door
 - **Live manifest**: https://councilof.ai/.well-known/x402.json
