@@ -6,6 +6,7 @@
 **Live board**: https://councilof.ai/board (22 axes, signed, verifiable)
 
 **Main repo**: https://github.com/CSOAI-ORG/councilof-ai
+**Ecosystem map**: [csoai-ecosystem](https://github.com/CSOAI-ORG/csoai-ecosystem) — all channels, verified live (npm, MCP, x402, bazaar)
 
 ## 41+ public CSOAI measurement repos
 
