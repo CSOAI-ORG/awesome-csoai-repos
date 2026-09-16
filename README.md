@@ -9,6 +9,9 @@
 
 ## 41+ public CSOAI measurement repos
 
+### Blog Repos (7 + 10 cross-posts + 1 bundle)
+- [csoai-blog-bundle](https://github.com/CSOAI-ORG/csoai-blog-bundle) — all 7 CSOAI blog posts bundled into one README
+
 ### Blog Posts
 - [csoai-blog-22-axes-signed](https://github.com/CSOAI-ORG/csoai-blog-22-axes-signed)
 - [csoai-blog-stop-certifying](https://github.com/CSOAI-ORG/csoai-blog-stop-certifying)
