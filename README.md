@@ -102,8 +102,12 @@
 
 Nicholas Templeman, CSOAI Ltd (UK 16939677)
 nicholas@csoai.org
-## x402 Paid API (LIVE) — [csoai-x402-revenue](https://github.com/CSOAI-ORG/csoai-x402-revenue)
-**11 billable endpoints live.** USDC on Base. Verified $0.02 first-week revenue.
+## x402 Paid API (LIVE)
+- **Revenue catalog**: [csoai-x402-revenue](https://github.com/CSOAI-ORG/csoai-x402-revenue) — 11 endpoints, USDC on Base, $0.02 first-week revenue
+- **Buyer integration guide**: [csoai-x402-buyer-guide](https://github.com/CSOAI-ORG/csoai-x402-buyer-guide) — copy-paste EIP-3009 signing
+- **Free discovery**: https://councilof.ai/api/free-door
+- **Live manifest**: https://councilof.ai/.well-known/x402.json
+- **Revenue stats**: https://councilof.ai/api/revenue
 
 CSOAI operates a live x402 (HTTP 402 Payment Required) rail on **Base**:
 
