@@ -102,3 +102,29 @@
 
 Nicholas Templeman, CSOAI Ltd (UK 16939677)
 nicholas@csoai.org
+## x402 Paid API (LIVE)
+
+CSOAI operates a live x402 (HTTP 402 Payment Required) rail on **Base**:
+
+- **Network**: eip155:8453
+- **Asset**: USDC (`0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913`)
+- **Pay-to**: `0x212686404A7D1E1fD88F35eD6200c3aF7A78ae31`
+- **Discovery**: https://councilof.ai/.well-known/x402.json
+- **Mode**: live (facilitator configured)
+
+### Billable resources (11)
+| Endpoint | Promo | Normal |
+|----------|------:|-------:|
+| `/api/request-attestation` | $0.01 | $0.02 |
+| `/api/evidence-bundle` | $0.01 | $250.00 |
+| `/api/eunomia-data` | $0.01 | $0.02 |
+| `/api/proof` | $0.01 | $0.02 |
+| `/api/rwa/evidence` | $0.01 | $0.02 |
+| `/api/wrapper` | $0.01 | $0.02 |
+| `/api/wrapper/changes` | $0.01 | $0.02 |
+| `/api/art50/marking-evidence` | $0.01 | TBD |
+| `/api/feeds/provider-diff` | $0.01 | $25.00 |
+| `/api/receipts/batch` | $0.01 | $1.00 |
+| `/api/free-door` | $0.00 | $0.00 |
+
+**Launch promo ends 2026-10-11.** Verification is free forever.
