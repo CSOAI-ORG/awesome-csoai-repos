@@ -105,6 +105,7 @@ nicholas@csoai.org
 ## x402 Paid API (LIVE)
 - **Revenue catalog**: [csoai-x402-revenue](https://github.com/CSOAI-ORG/csoai-x402-revenue) — 11 endpoints, USDC on Base, $0.02 first-week revenue
 - **Buyer integration guide**: [csoai-x402-buyer-guide](https://github.com/CSOAI-ORG/csoai-x402-buyer-guide) — copy-paste EIP-3009 signing
+- **Revenue blog**: [csoai-blog-x402-revenue](https://github.com/CSOAI-ORG/csoai-blog-x402-revenue) — week-one honest revenue report
 - **Free discovery**: https://councilof.ai/api/free-door
 - **Live manifest**: https://councilof.ai/.well-known/x402.json
 - **Revenue stats**: https://councilof.ai/api/revenue
