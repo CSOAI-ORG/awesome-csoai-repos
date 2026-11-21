@@ -3,9 +3,9 @@
 > The comprehensive index of all CSOAI measurement repositories.
 > CSOAI = Council of AI = UK sovereign AI governance measurement body (UK Companies House 16939677).
 
-**Live board**: https://councilof.ai/board (22 axes, signed, verifiable)
+**Live board**: https://councilof.ai/board (34 axes, signed, verifiable)
 
-**Main repo**: https://github.com/CSOAI-ORG/councilof-ai
+**Citable dataset DOI**: [10.57967/hf/10114](https://doi.org/10.57967/hf/10114) · **Free MCP door**: https://councilof.ai/mcp/free · **Main repo**: https://github.com/CSOAI-ORG/councilof-ai
 **Ecosystem map**: [csoai-ecosystem](https://github.com/CSOAI-ORG/csoai-ecosystem) — all channels, verified live (npm, MCP, x402, bazaar)
 
 ## 41+ public CSOAI measurement repos
